@@ -1,0 +1,2 @@
+Texto escrito com int
+enção de manipular arquivo com strings em formato txt
